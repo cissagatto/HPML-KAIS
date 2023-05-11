@@ -99,9 +99,11 @@ Attention: before using rclone, check with your institution's network administra
 
 -- *Generate Partitions*: [Random Partitions Version 1](https://github.com/cissagatto/Generate-Partitions-Random1) | [Random Partitions Version 2](https://github.com/cissagatto/Generate-Partitions-Random2) | [Random Partitions Version 3](https://github.com/cissagatto/Generate-Partitions-Random3)
 
--- *Select Best Partition*: [Macro-F1](https://github.com/cissagatto/Best-Partition-MacroF1) | [Micro-F1](https://github.com/cissagatto/Best-Partition-MicroF1) | [Silhouette](https://github.com/cissagatto/Best-Partition-Silhouete) | [Kohonen Macro-F1](https://github.com/cissagatto/Best-Partition-Kohonen-MaF1-Clus) | [Kohonen Micro-F1](https://github.com/cissagatto/Best-Partition-Kohonen-MiF1-Clus) | [Random 3](https://github.com/cissagatto/Random3-Clus)
+-- *Select Best Partition*: [Macro-F1](https://github.com/cissagatto/Best-Partition-MacroF1) | [Micro-F1](https://github.com/cissagatto/Best-Partition-MicroF1) | [Silhouette](https://github.com/cissagatto/Best-Partition-Silhouete) | [Kohonen Macro-F1](https://github.com/cissagatto/Best-Partition-Kohonen-MaF1-Clus) | [Kohonen Micro-F1](https://github.com/cissagatto/Best-Partition-Kohonen-MiF1-Clus) 
 
--- *Test Best Partition*: [Macro-F1](https://github.com/cissagatto/Test-Best-Partition-MaF1-Clus) Micro-F1: https://github.com/cissagatto/Test-Best-Partition-MiF1-Clus) | [Silhouette](https://github.com/cissagatto/Test-Best-Partition-Silhouete) | [Random 3](https://github.com/cissagatto/Random3-Clus)
+-- *Test Best Partition*: [Macro-F1](https://github.com/cissagatto/Test-Best-Partition-MaF1-Clus) | [Micro-F1](https://github.com/cissagatto/Test-Best-Partition-MiF1-Clus) | [Silhouette](https://github.com/cissagatto/Test-Best-Partition-Silhouete) 
+
+-- [Random 3](https://github.com/cissagatto/Random3-Clus)
 
 
 ## Acknowledgment
