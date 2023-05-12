@@ -44,15 +44,15 @@ Here you can download the generated partitions, best selected partitions and the
 
 Here you will find all the documents (tables, plots, etc.) with analysis of the results.
 
-- [Performance](https://1drv.ms/b/s!Aq6SGcf6js1m7P5HufzJIoEvmZUrGg?e=A8odjf)
+- [Performance](https://1drv.ms/b/s!Aq6SGcf6js1m7P5HufzJIoEvmZUrGg?e=DTzFL5)
 
-- [Win-Loss-Tie]()
+- [Win-Loss-Tie](https://1drv.ms/f/s!Aq6SGcf6js1m7P5LbvNpbOJC98Diqw?e=6iQT3p)
 
 - [Method-Pair-Comparison]()
 
-- [Statistical Tests]()
+- [Statistical Tests](https://1drv.ms/f/s!Aq6SGcf6js1m7P5MqnImJY2gao69dA?e=6NLbjm)
 
-- [Partitioning](https://1drv.ms/b/s!Aq6SGcf6js1m7P5GKY8MigODG6pE1A?e=hdLs5g)
+- [Partitioning](https://1drv.ms/b/s!Aq6SGcf6js1m7P5GKY8MigODG6pE1A?e=Up23Yk)
 
 
 
