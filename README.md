@@ -12,12 +12,12 @@ Here you can download the generated partitions, best selected partitions and the
 **Generated Partitions**
 
 - [10 Folds Cross Validation](https://1drv.ms/f/s!Aq6SGcf6js1m6-B08FI4WPdLPDtdkQ?e=Ijz6dt)
-- [All Possible Partitions (Bell Number](https://1drv.ms/f/s!Aq6SGcf6js1m6-ETm236_Bju4YMjgw?e=wBwzbX)
+- [All Possible Partitions (Bell Number)](https://1drv.ms/f/s!Aq6SGcf6js1m6-ETm236_Bju4YMjgw?e=wBwzbX)
 - [HPML-J](https://1drv.ms/f/s!Aq6SGcf6js1m6-B2rrDsWL8OSwngrQ?e=vGj2tb)
 - [HPML-K](https://1drv.ms/f/s!Aq6SGcf6js1m6-B__DDUWcmmChKt_Q?e=GOiLUK)
 - [Random 1](https://1drv.ms/f/s!Aq6SGcf6js1m6-FBMGd-u3ndwfgiBA?e=LiZCMP)
-- [Random 2](https://1drv.ms/f/s!Aq6SGcf6js1m6-ERnkBZAzM0cOtY8A?e=jQ5Ud6) 
-- [Random 3]() 
+- [Random 2](https://1drv.ms/f/s!Aq6SGcf6js1m6-FCBXhuUkS9n8GImw?e=pXOBJe) 
+- [Random 3]
 
 
 **Best Selected Partitions**
