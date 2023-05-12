@@ -48,7 +48,7 @@ Here you will find all the documents (tables, plots, etc.) with analysis of the 
 
 - [Win-Loss-Tie](https://1drv.ms/f/s!Aq6SGcf6js1m7P5LbvNpbOJC98Diqw?e=6iQT3p)
 
-- [Method-Pair-Comparison]()
+- [Method-Pair-Comparison](https://1drv.ms/f/s!Aq6SGcf6js1m7P5Oos4NRUHKqz4-JQ?e=iN83dh)
 
 - [Statistical Tests](https://1drv.ms/f/s!Aq6SGcf6js1m7P5MqnImJY2gao69dA?e=6NLbjm)
 
