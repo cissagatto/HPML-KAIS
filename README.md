@@ -7,35 +7,39 @@ Repository for the Journal Paper "Multi-Label Classification with Label Clusters
 
 ### Resulting Files
 
-Here you can download the generated........ 
-
-If you want to generate these for your experiments since the beginning, then please check the source code section.
+Here you can download the generated partitions, best selected partitions and the results from our experiments. If you want to get these for your experiments since the beginning, then please check the source code section.
 
 **Generated Partitions**
 
+- [10 Folds Cross Validation](https://1drv.ms/f/s!Aq6SGcf6js1m6-B08FI4WPdLPDtdkQ?e=Ijz6dt)
 - [All Possible Partitions (Bell Number](https://1drv.ms/f/s!Aq6SGcf6js1m6-ETm236_Bju4YMjgw?e=wBwzbX)
-- [Jaccard index](https://1drv.ms/f/s!Aq6SGcf6js1m6-B2rrDsWL8OSwngrQ?e=uMZiPy)
-- [Kohonen](https://1drv.ms/f/s!Aq6SGcf6js1m6-B__DDUWcmmChKt_Q?e=p7W5AE)
-- [Random 1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EItLgayDOcoSHdow?e=3ga1Re)
+- [HPML-J](https://1drv.ms/f/s!Aq6SGcf6js1m6-B2rrDsWL8OSwngrQ?e=vGj2tb)
+- [HPML-K](https://1drv.ms/f/s!Aq6SGcf6js1m6-B__DDUWcmmChKt_Q?e=GOiLUK)
+- [Random 1](https://1drv.ms/f/s!Aq6SGcf6js1m6-FBMGd-u3ndwfgiBA?e=LiZCMP)
 - [Random 2](https://1drv.ms/f/s!Aq6SGcf6js1m6-ERnkBZAzM0cOtY8A?e=jQ5Ud6) 
+- [Random 3]() 
 
 
 **Best Selected Partitions**
 
-- [Oracle](https://1drv.ms/f/s!Aq6SGcf6js1m6-E7-G4u8QbWvOyaYQ?e=arxiJR)
+- [Oracle](https://1drv.ms/f/s!Aq6SGcf6js1m6-E7-G4u8QbWvOyaYQ?e=lskQ6a)
 
-- *Exhaustive*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EnT2HV6DN1W1NiMw?e=0R4SrT) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EnT2HV6DN1W1NiMw?e=0R4SrT)
+- *Exhaustive*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EoId5BXS8Mt3HgUw?e=tWrYOt) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EnT2HV6DN1W1NiMw?e=ebLpMO)
 
-- *HPML-J*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EaVAzfj6hOoDvqfA?e=em8imj) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Eb19W3q1vMZHs3IQ?e=dzGsMl) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-EcOcU1F5h6b4XSDg?e=csjys1)
+- *HPML-J*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EaVAzfj6hOoDvqfA?e=2w9gQp) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Eb19W3q1vMZHs3IQ?e=dmj67U) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-EcOcU1F5h6b4XSDg?e=xGy2Wt)
 
-- *HPML-K*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ed4L_kp3PxE-kMmA?e=GwIs9V) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ed4L_kp3PxE-kMmA?e=GwIs9V) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-EfBakMcYZeWPGXHw?e=zbw34k)
+- *HPML-K*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ed4L_kp3PxE-kMmA?e=jl59bY) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ee8pe_XwIKdgD9eA?e=i4hHuS) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-EfBakMcYZeWPGXHw?e=uMgH9p)
 
-- *Random-1*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EgPP48Xo--NrlANw?e=cpmxfu) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EhuRev41tVVXRyFA?e=iLcszo) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-EicqyByYG2gbONGg?e=FYeNWc)
+- *Random-1*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EgPP48Xo--NrlANw?e=TK9G39) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EhuRev41tVVXRyFA?e=qldux9) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-EicqyByYG2gbONGg?e=ZFtV8x)
 
 - *Random-2*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ej1VJbGUJx97MClw?e=fRzZ4f) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EkdHHPlruE-12Ujg?e=etIs9n) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-ElaRlxjeUuFzH-dw?e=rrKcB5)
 
 
-**[Random 3]()**
+*[Random 3](https://1drv.ms/f/s!Aq6SGcf6js1m6-ESbB43ACvi3WZecw?e=sglmVd)*
+
+*[Local-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P01XT9LbbGDzax0Ww?e=Xc1U2M)*
+
+*[Global-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P00Gp5zxVR1xUQi0Q?e=nHw0W4)*
 
 
 ### Analysis
