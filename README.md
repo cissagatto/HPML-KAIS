@@ -17,7 +17,7 @@ Here you can download the generated partitions, best selected partitions and the
 - [HPML-K](https://1drv.ms/f/s!Aq6SGcf6js1m6-B__DDUWcmmChKt_Q?e=GOiLUK)
 - [Random 1](https://1drv.ms/f/s!Aq6SGcf6js1m6-FBMGd-u3ndwfgiBA?e=LiZCMP)
 - [Random 2](https://1drv.ms/f/s!Aq6SGcf6js1m6-FCBXhuUkS9n8GImw?e=pXOBJe) 
-- [Random 3]
+- [Random 3](https://1drv.ms/f/s!Aq6SGcf6js1m7P41pcNLwmHJAUWG2g?e=zstXSw)
 
 
 **Best Selected Partitions**
@@ -35,8 +35,6 @@ Here you can download the generated partitions, best selected partitions and the
 - *Random-2*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ej1VJbGUJx97MClw?e=fRzZ4f) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EkdHHPlruE-12Ujg?e=etIs9n) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-ElaRlxjeUuFzH-dw?e=rrKcB5)
 
 
-*[Random 3](https://1drv.ms/f/s!Aq6SGcf6js1m6-ESbB43ACvi3WZecw?e=sglmVd)*
-
 *[Local-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P01XT9LbbGDzax0Ww?e=Xc1U2M)*
 
 *[Global-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P00Gp5zxVR1xUQi0Q?e=nHw0W4)*
@@ -46,7 +44,7 @@ Here you can download the generated partitions, best selected partitions and the
 
 Here you will find all the documents (tables, plots, etc.) with analysis of the results.
 
-- [Performance]()
+- [Performance](https://1drv.ms/b/s!Aq6SGcf6js1m7P5HufzJIoEvmZUrGg?e=A8odjf)
 
 - [Win-Loss-Tie]()
 
@@ -54,7 +52,7 @@ Here you will find all the documents (tables, plots, etc.) with analysis of the 
 
 - [Statistical Tests]()
 
-- [Partitioning]()
+- [Partitioning](https://1drv.ms/b/s!Aq6SGcf6js1m7P5GKY8MigODG6pE1A?e=hdLs5g)
 
 
 
