@@ -35,9 +35,9 @@ Here you can download the generated partitions, best selected partitions and the
 - *Random-2*: [Macro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-Ej1VJbGUJx97MClw?e=fRzZ4f) | [Micro-F1](https://1drv.ms/f/s!Aq6SGcf6js1m6-EkdHHPlruE-12Ujg?e=etIs9n) | [Silhouette](https://1drv.ms/f/s!Aq6SGcf6js1m6-ElaRlxjeUuFzH-dw?e=rrKcB5)
 
 
-*[Local-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P01XT9LbbGDzax0Ww?e=Xc1U2M)*
+- *[Local-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P01XT9LbbGDzax0Ww?e=Xc1U2M)*
 
-*[Global-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P00Gp5zxVR1xUQi0Q?e=nHw0W4)*
+- *[Global-Partitions](https://1drv.ms/f/s!Aq6SGcf6js1m7P00Gp5zxVR1xUQi0Q?e=nHw0W4)*
 
 
 ### Analysis
