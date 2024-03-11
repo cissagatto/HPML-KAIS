@@ -3,6 +3,11 @@ Repository for the Journal Paper "Multi-Label Classification with Label Clusters
 
 ## How to cite this repository
 
+### PRE-PRINTS
+| [1.º Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163294) | 
+[2.º Pre-Print](https://www.researchsquare.com/article/rs-3133411/v1) |
+
+
 ## RESULTS
 
 ### Resulting Files
@@ -106,9 +111,6 @@ Attention: before using rclone, check with your institution's network administra
 
 -- [Random 3](https://github.com/cissagatto/Random3-Clus)
 
-### pre prints
-[1.º Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163294)
-[2.º Pre-Print](https://www.researchsquare.com/article/rs-3133411/v1)
 
 
 ## Acknowledgment
