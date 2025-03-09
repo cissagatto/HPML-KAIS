@@ -2,11 +2,10 @@
 Repository for the Journal Paper "Multi-Label Classification with Label Clusters"
 
 ## How to cite this repository
+Gatto, E.C., Ferrandin, M. & Cerri, R. Multi-label classification with label clusters. Knowl Inf Syst 67, 1741–1785 (2025). https://doi.org/10.1007/s10115-024-02270-9
 
-### PRE-PRINTS
-| [1.º Pre-Print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163294) | 
-[2.º Pre-Print](https://www.researchsquare.com/article/rs-3133411/v1) |
-
+### PAPER
+https://link.springer.com/article/10.1007/s10115-024-02270-9
 
 ## RESULTS
 
